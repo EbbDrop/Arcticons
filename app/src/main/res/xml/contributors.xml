@@ -44,7 +44,7 @@
 	<contributor
 		name="Dgcampbe"
 		contribution="Icon Creator"
-		image="assets://contributors/downloaded/contributor_8.webp"
+		image="assets://contributors/face_8.webp"
 		link="https://github.com/dgcampbe" />
 	<contributor
 		name="Dkanada"
@@ -419,7 +419,7 @@
 	<contributor
 		name="skedastically"
 		contribution="Icon creator"
-		image="assets://contributors/downloaded/contributor_83.webp"
+		image="assets://contributors/face_3.webp"
 		link="https://github.com/skedastically" />
 	<contributor
 		name="KR4U7H3R"
@@ -704,7 +704,7 @@
 	<contributor
 		name="PurpleBabar"
 		contribution="Icon Creator"
-		image="assets://contributors/downloaded/contributor_140.webp"
+		image="assets://contributors/face_0.webp"
 		link="https://github.com/PurpleBabar" />
 	<contributor
 		name="Gewalee Lekcharuthas"
@@ -732,8 +732,113 @@
 		image="assets://contributors/downloaded/contributor_145.webp"
 		link="https://github.com/JoseFilipeFerreira" />
 	<contributor
-		name="qappell"
+		name="camradex"
 		contribution="Icon Creator"
 		image="assets://contributors/downloaded/contributor_146.webp"
+		link="https://github.com/camradex" />
+	<contributor
+		name="qappell"
+		contribution="Icon Creator"
+		image="assets://contributors/downloaded/contributor_147.webp"
 		link="https://github.com/qappell" />
+	<contributor
+		name="trainlos"
+		contribution="Icon Creator."
+		image="assets://contributors/downloaded/contributor_148.webp"
+		link="https://github.com/trainlos" />
+	<contributor
+		name="CodeSpoof"
+		contribution="Icon Creator"
+		image="assets://contributors/downloaded/contributor_149.webp"
+		link="https://github.com/CodeSpoof" />
+	<contributor
+		name="Sierra 'TheGhostHybrid' Randolph"
+		contribution="Icon Creator"
+		image="assets://contributors/downloaded/contributor_150.webp"
+		link="https://purpleygoodness.design" />
+	<contributor
+		name="justxbird"
+		contribution="Icon Creator."
+		image="assets://contributors/downloaded/contributor_151.webp"
+		link="https://listed.to/@kyx" />
+	<contributor
+		name="RouEmpire"
+		contribution="Icon Creator."
+		image="assets://contributors/face_2.webp"
+		link="https://rouempire.github.io" />
+	<contributor
+		name="constellationz"
+		contribution="Icon Creator"
+		image="assets://contributors/downloaded/contributor_153.webp"
+		link="https://github.com/constellationz" />
+	<contributor
+		name="EbbDrop"
+		contribution="Icon Creator"
+		image="assets://contributors/downloaded/contributor_154.webp"
+		link="https://github.com/EbbDrop" />
+	<contributor
+		name="terazik-mubaloo"
+		contribution="Icon Creator."
+		image="assets://contributors/downloaded/contributor_155.webp"
+		link="https://github.com/terazik-mubaloo" />
+	<contributor
+		name="Tapeykatt"
+		contribution="Icon Creator"
+		image="assets://contributors/downloaded/contributor_156.webp"
+		link="https://tapeykatt.neocities.org" />
+	<contributor
+		name="Winux-Arch"
+		contribution="Icon Creator."
+		image="assets://contributors/downloaded/contributor_157.webp"
+		link="https://winux-arch.github.io/" />
+	<contributor
+		name="enizor"
+		contribution="Icon Creator."
+		image="assets://contributors/downloaded/contributor_158.webp"
+		link="https://github.com/enizor" />
+	<contributor
+		name="RunTheBot"
+		contribution="Icon Creator."
+		image="assets://contributors/downloaded/contributor_159.webp"
+		link="https://github.com/runthebot" />
+	<contributor
+		name="Jellify"
+		contribution="Icon Creator."
+		image="assets://contributors/downloaded/contributor_160.webp"
+		link="https://github.com/Jellify-Music" />
+	<contributor
+		name="supersurviveur"
+		contribution="Icon Creator."
+		image="assets://contributors/downloaded/contributor_161.webp"
+		link="https://github.com/supersurviveur/" />
+	<contributor
+		name="Viren Hirpara"
+		contribution="Icon Creator."
+		image="assets://contributors/downloaded/contributor_162.webp"
+		link="https://www.virenhirpara.com/" />
+	<contributor
+		name="CallmeJoeBob"
+		contribution="Icon Creator"
+		image="assets://contributors/downloaded/contributor_163.webp"
+		link="https://github.com/CallmeJoeBob" />
+	<contributor
+		name="qx-7"
+		contribution="Icon Creator"
+		image="assets://contributors/downloaded/contributor_164.webp"
+		link="https://github.com/qx-7" />
+	<contributor
+		name="Nils Affentranger"
+		contribution="Icon Creator"
+		image="assets://contributors/downloaded/contributor_165.webp"
+		link="https://github.com/nils-affentranger" />
+	<contributor
+		name="babyhuehnchen"
+		contribution="Icon Creator"
+		image="assets://contributors/downloaded/contributor_166.webp"
+		link="https://github.com/babyhuehnchen" />
+	<contributor
+		name="NeoNyaa"
+		contribution="Icon Creator"
+		image="assets://contributors/downloaded/contributor_167.webp"
+		link="https://neo-nyaa.pet" />
 </resources>
